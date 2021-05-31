@@ -1,0 +1,7 @@
+E:\New folder (3)\IPPackingUnPacking\IPPackingUnPacking\bin\Debug\IPPackingUnPacking.exe
+E:\New folder (3)\IPPackingUnPacking\IPPackingUnPacking\bin\Debug\IPPackingUnPacking.pdb
+E:\New folder (3)\IPPackingUnPacking\IPPackingUnPacking\obj\x86\Debug\IPPackingUnPacking.Frm_Packing.resources
+E:\New folder (3)\IPPackingUnPacking\IPPackingUnPacking\obj\x86\Debug\IPPackingUnPacking.Properties.Resources.resources
+E:\New folder (3)\IPPackingUnPacking\IPPackingUnPacking\obj\x86\Debug\IPPackingUnPacking.csproj.GenerateResource.Cache
+E:\New folder (3)\IPPackingUnPacking\IPPackingUnPacking\obj\x86\Debug\IPPackingUnPacking.exe
+E:\New folder (3)\IPPackingUnPacking\IPPackingUnPacking\obj\x86\Debug\IPPackingUnPacking.pdb
